@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hashim Javed.
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Data Engineering and Machine Learning.
 - 🌱 I’m Computer Science graduate from LUMS.
-- 💞️ I’m full time machine learning engineer at Confiz Ltd.
+- 💞️ I’m full time Data Engineer.
 - 📫 You can reach me at hashawaji@gmail.com.
